@@ -1,22 +1,12 @@
 E Commerce App with React and Router V6
 
-This is a simple React application that allows users to browse products, view details, and manage a shopping cart using React Router for navigation.
+A responsive e-commerce storefront built with React, showcasing products and shopping cart functionality.
 
-Tech Stack
+Tech Stack: React, JavaScript, CSS, HTML, Vite
 
-React
-React Router DOM
-JavaScript
-CSS
+Run Locally:
+1. Clone repo: `git clone https://github.com/Kandy1116/ReactECom.git`
+2. Install dependencies: `npm install`
+3. Start dev server: `npm run dev`
 
-Prerequisites
-
-Please make sure you are using Node version 16.20.2 or later
-
-Getting Started
-
-To start the application, please follow the steps below
-
-npm install
-
-npm start
+Live Demo: [ReactECom Live](https://your-demo-link.vercel.app)
